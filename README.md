@@ -1,4 +1,4 @@
-# java_training
+# java training
 
 1. Marker Interfaces & Abstract classes
 2. java 8 features -                                                                                              
